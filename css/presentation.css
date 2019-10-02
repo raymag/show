@@ -1,0 +1,130 @@
+section {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  flex-direction: column;
+  word-wrap: normal !important;
+}
+.bg-dark-less{
+  padding: 15px 20px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 5px;
+}
+#presented-by{
+  font-size: .45em;
+  text-align: left;
+}
+
+section .content{
+  max-width: 70vw;
+}
+
+.presentation-logo{
+  position: absolute;
+  z-index: 5;
+  top: 5vh;
+  left: 5vw;
+  width: 5vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.presentation-icon{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+}
+
+.position-bottom-right{
+  position: absolute;
+  bottom: 25vh;
+  right: 5vw;
+}
+.position-top-right{
+  position: absolute;
+  top: 10vh;
+  right: 5vw;
+}
+.position-top{
+  position: absolute;
+  top: 10vh;
+}
+.position-bottom-left{
+  bottom: 10vh;
+  left: 5vw;
+}
+
+@media only screen and (max-width: 720px){
+  section .content{
+    width: 95vw;
+    font-size: .5em;
+  }
+  .presentation-icon{
+    padding: 5px;
+  }
+  .presentation-logo{
+    width: 15vw;
+  }
+  #presented-by{
+    font-size: .9em;
+  }
+  h4{
+    font-size: 0.4em !important;
+  }
+  h2{
+    font-size: 1.2em !important;
+  }
+  #hacktoberfest-shirt1, #hacktoberfest-shirt2{
+    height: 30vh;
+    width: auto !important;
+    bottom: 0 !important;
+  }
+}
+
+#hacktoberfest-shirt1{
+  border: none;
+  width: 20vw;
+  background: none;
+  transform: rotate(-15deg);
+  position: absolute;
+  left: 25%;
+  bottom: 12%;
+}
+#hacktoberfest-shirt2{
+  border: none;
+  width: 20vw;
+  background: none;
+  transform: rotate(30deg);
+  position: absolute;
+  right: 25%;
+  bottom: 12%;
+}
+
+.small-width{
+  max-width: 35vw !important;
+}
+
+.color-lightblue{
+  color: #42affa;
+}
+
+#title{
+  background-image: url('../img/hacker.jpg');
+}
+#hacktoberfest{
+  background-image: url('../img/hacktoberfest.png');
+  background-position: right;
+}
+#hacktoberfest-whatis{
+  background-image: url('../img/fall.jpg');
+}
+#open-source{
+  background-image: url('../img/batman-thinking.gif');
+}
