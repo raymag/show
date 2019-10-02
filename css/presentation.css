@@ -57,6 +57,7 @@ section .content{
   top: 10vh;
 }
 .position-bottom-left{
+  position: absolute;
   bottom: 10vh;
   left: 5vw;
 }
@@ -125,6 +126,9 @@ section .content{
 #hacktoberfest-whatis{
   background-image: url('../img/fall.jpg');
 }
-#open-source{
+#software-questions{
   background-image: url('../img/batman-thinking.gif');
+}
+#open-source{
+  background-image: url('../img/doors.png');
 }
