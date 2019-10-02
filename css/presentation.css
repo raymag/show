@@ -66,6 +66,11 @@ section .content{
   right: 5vw;
 }
 
+.position-left{
+  position: absolute;
+  left: 5vw;
+}
+
 @media only screen and (max-width: 720px){
   section .content{
     width: 95vw;
@@ -116,6 +121,11 @@ section .content{
   max-width: 35vw !important;
 }
 
+.img-small{
+  width: 5vw;
+  height: 5vw;
+}
+
 .flex-column{
   display: flex;
   flex-direction: column;
@@ -123,6 +133,17 @@ section .content{
 
 .flex-column *{
   margin-bottom: 5px;
+}
+
+.flex-row{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.flex-row .img-small{
+  margin-right: 5px;
 }
 
 .color-lightblue{
