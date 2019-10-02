@@ -61,6 +61,10 @@ section .content{
   bottom: 10vh;
   left: 5vw;
 }
+.position-right{
+  position: absolute;
+  right: 5vw;
+}
 
 @media only screen and (max-width: 720px){
   section .content{
@@ -110,6 +114,15 @@ section .content{
 
 .small-width{
   max-width: 35vw !important;
+}
+
+.flex-column{
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-column *{
+  margin-bottom: 5px;
 }
 
 .color-lightblue{
