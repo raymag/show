@@ -170,7 +170,7 @@ section .content{
 #open-source{
   background-image: url('../img/doors.png');
 }
-<<<<<<< HEAD
+
 #porque{
   background-image: url('../img/porque.jpeg');
 }
@@ -185,7 +185,7 @@ section .content{
 }
 #receita{
   background-image: url('../img/receita.jpeg');
-=======
+}
 #free-software{
   background-image: url('../img/balloon.jpg');
 }
@@ -223,5 +223,4 @@ section .content{
 
 h4{
   max-width: 30vw;
->>>>>>> 30b7e8eaa83d2ae5bcc0c514fabda0b6fa886ee2
 }
