@@ -191,3 +191,15 @@ section .content{
 #issue{
   background-image: url('../img/transcendent.gif');
 }
+#fork{
+  background-image: url('../img/spoon.jpg');
+}
+#git-clone{
+  background-image: url('../img/clone.jpg');
+}
+#changes{
+  background-image: url('../img/journal.jpg');
+}
+#thanks{
+  background-image: url('../img/cat-code.gif');
+}
