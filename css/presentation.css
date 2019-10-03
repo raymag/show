@@ -170,3 +170,24 @@ section .content{
 #open-source{
   background-image: url('../img/doors.png');
 }
+#free-software{
+  background-image: url('../img/balloon.jpg');
+}
+#contribuition-title{
+  background-image: url('../img/contribuition.jpg');
+}
+#contribuition-why{
+  background-image: url('../img/doubt.gif');
+}
+#contribuition-where{
+  background-image: url('../img/maps.jpg');
+}
+#contribuition-how{
+  background-image: url('../img/coding.png');
+}
+#git-github{
+  background-image: url('../img/github.jpg');
+}
+#issue{
+  background-image: url('../img/transcendent.gif');
+}
