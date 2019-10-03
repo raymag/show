@@ -222,5 +222,9 @@ section .content{
 
 
 h4{
-  max-width: 30vw;
+  max-width: 25vw !important;
+  font-size: .6em !important;
+}
+h2{
+  font-size: .8em !important;
 }
