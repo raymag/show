@@ -118,7 +118,11 @@ section .content{
 }
 
 .small-width{
-  max-width: 35vw !important;
+  max-width: 30vw !important;
+}
+.smaller-width{
+  max-width: 25vw !important;
+  word-wrap: break-word;
 }
 
 .img-small{
