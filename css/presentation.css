@@ -203,3 +203,8 @@ section .content{
 #thanks{
   background-image: url('../img/cat-code.gif');
 }
+
+
+h4{
+  max-width: 30vw;
+}
