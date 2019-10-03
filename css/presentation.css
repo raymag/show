@@ -166,3 +166,18 @@ section .content{
 #open-source{
   background-image: url('../img/doors.png');
 }
+#porque{
+  background-image: url('../img/porque.jpeg');
+}
+#como{
+  background-image: url('../img/como.jpeg');
+}
+#onde{
+  background-image: url('../img/onde.jpeg');
+}
+#github{
+  background-image: url('../img/github.jpg');
+}
+#receita{
+  background-image: url('../img/receita.jpeg');
+}
