@@ -1,0 +1,98 @@
+section {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  flex-direction: column;
+  word-wrap: normal !important;
+}
+
+@media only screen and (max-width: 720px){
+  h1, h2, h3, h4, h5, h6{
+    font-size: 1em !important;
+  }
+}
+
+.bg-dark-less{
+  padding: 15px 20px;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 5px;
+}
+#presented-by{
+  width: 100%;
+  font-size: .45em;
+  text-align: left;
+}
+
+#presented-by span{
+  background: #00000066;
+  padding: 5px 8px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+section .content{
+  max-width: 70vw;
+}
+
+.presentation-logo{
+  position: absolute;
+  z-index: 5;
+  top: 5vh;
+  left: 5vw;
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.presentation-icon{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+}
+
+.highlight{
+  color: rgb(13, 184, 236) !important;
+}
+.highlight-red{
+  color: rgb(236, 13, 13) !important;
+}
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++ */
+
+#title{
+  background-image: url('../img/game-store.jpg');
+}
+#intro{
+  background-image: url('../img/boardgame1.jpg');
+}
+#change{
+  background-image: url('../img/thinking.webp');
+}
+#culture{
+  background-image: url('../img/gamers.jpg');
+}
+#e-sport{
+  background-image: url('../img/lol-tournament.jpg');
+}
+#art{
+  background-image: url('../img/zelda2.jpg');
+}
+#be-a-pilot{
+  background-image: url('../img/forza.jpg');
+}
+#be-a-space-explorer{
+  background-image: url('../img/space-explorer.jpg');
+}
+#storytelling{
+  background-image: url('../img/earth.jpg');
+}
+#welcome{
+  background-image: url('../img/ship.jpg');
+}
