@@ -136,3 +136,17 @@ section .content{
   background-image: url('../img/computer-space.jpg');
   background-position: top;
 }
+#pong{
+  background-image: url('../img/pong.jpg');
+}
+
+#magnavox-odyssey{
+  background-image: url('../img/magnavox-odyssey.jpg');
+  background-position: bottom;
+}
+#magnavox-tv{
+  background-image: url('../img/magnavox-odyssey-screen-overlay.png');
+}
+#brown-box{
+  background-image: url('../img/brown-box.jpg');
+}
