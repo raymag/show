@@ -13,7 +13,15 @@ section {
 
 @media only screen and (max-width: 720px){
   h1, h2, h3, h4, h5, h6{
-    font-size: 1em !important;
+    font-size: .7em !important;
+  }
+
+  .image-show{
+    display: none;
+  }
+
+  section{
+    padding: 20px;
   }
 }
 
@@ -37,6 +45,11 @@ section {
 
 section .content{
   max-width: 70vw;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .presentation-logo{
@@ -62,6 +75,13 @@ section .content{
 }
 .highlight-red{
   color: rgb(236, 13, 13) !important;
+}
+
+.image-show{
+  max-width: 40%;
+  max-height: 70% !important;
+  position: absolute;
+  top: 50px;
 }
 
 /* +++++++++++++++++++++++++++++++++++++++++++++++ */
@@ -110,4 +130,9 @@ section .content{
 #pdp-1{
   background-image: url('../img/PDP-1.jpg');
   background-position: bottom;
+}
+
+#computer-space{
+  background-image: url('../img/computer-space.jpg');
+  background-position: top;
 }
