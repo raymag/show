@@ -96,3 +96,18 @@ section .content{
 #welcome{
   background-image: url('../img/ship.jpg');
 }
+
+#history-begins{
+  background-image: url('../img/tennis\ for\ two.png');
+}
+#tennis_for_two{
+  background-image: url('../img/tennis_for_two2.jpg');
+}
+
+#spacewar{
+  background-image: url('../img/spacewar-mit.jpg');
+}
+#pdp-1{
+  background-image: url('../img/PDP-1.jpg');
+  background-position: bottom;
+}
