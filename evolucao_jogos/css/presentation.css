@@ -13,7 +13,7 @@ section {
 
 @media only screen and (max-width: 720px){
   h1, h2, h3, h4, h5, h6{
-    font-size: .7em !important;
+    font-size: .6em !important;
   }
 
   .image-show{
@@ -175,4 +175,11 @@ section .content{
 }
 #asteroids{
   background-image: url('../img/asteroids.jpg');
+}
+
+#pacman{
+  background-image: url('../img/pacman.jpg');
+}
+#donkey-kong{
+  background-image: url('../img/donkey-kong-arcade.jpg');
 }
