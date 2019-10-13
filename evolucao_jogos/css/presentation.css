@@ -211,6 +211,9 @@ section .content{
 #zelda-openworld-nes{
   background-image: url('../img/zelda-nes-open.jpg');
 }
+#mortal-kombat-nes{
+  background-image: url('../img/mortalkombat-nes.jpg');
+}
 
 #gameboy{
   background-image: url('../img/gameboy.jpg');
@@ -220,4 +223,17 @@ section .content{
 }
 #pokemon{
   background-image: url('../img/pokemon.jpg');
+}
+
+#snes{
+  background-image: url('../img/snes.jpg');
+}
+#megaman-snes{
+  background-image: url('../img/megaman-x-snes.jpg');
+}
+#zelda-snes{
+  background-image: url('../img/zelda-snes.jpg');
+}
+#alladin-snes{
+  background-image: url('../img/aladin-snes.jpg');
 }
