@@ -272,3 +272,7 @@ section .content{
 #cod-mobile{
   background-image: url('../img/callofduty-mobile.webp');
 }
+
+#thankyou{
+  background-image: url('../img/cat.webp');
+}
