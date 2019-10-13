@@ -183,3 +183,31 @@ section .content{
 #donkey-kong{
   background-image: url('../img/donkey-kong-arcade.jpg');
 }
+
+#nes{
+  background-image: url('../img/nes.png');
+}
+#mario-nes{
+  background-image: url('../img/mario-nes.jpg');
+}
+#kid-icarus-nes{
+  background-image: url('../img/kid-icarus-nes.jpg');
+}
+#megaman-nes{
+  background-image: url('../img/megaman-nes.jpg');
+}
+#duck-hunt-nes{
+  background-image: url('../img/duck-hunt-ness.webp');
+}
+#contra-nes{
+  background-image: url('../img/contra-nes.jpg');
+}
+#castlevania-nes{
+  background-image: url('../img/castlevania-nes.png');
+}
+#zelda-nes{
+  background-image: url('../img/zelda-nes.jpg');
+}
+#zelda-openworld-nes{
+  background-image: url('../img/zelda-nes-open.jpg');
+}
