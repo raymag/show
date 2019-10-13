@@ -211,3 +211,13 @@ section .content{
 #zelda-openworld-nes{
   background-image: url('../img/zelda-nes-open.jpg');
 }
+
+#gameboy{
+  background-image: url('../img/gameboy.jpg');
+}
+#gba{
+  background-image: url('../img/gba.jpg');
+}
+#pokemon{
+  background-image: url('../img/pokemon.jpg');
+}
