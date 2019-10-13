@@ -150,3 +150,22 @@ section .content{
 #brown-box{
   background-image: url('../img/brown-box.jpg');
 }
+
+#fairchild{
+  background-image: url('../img/fairchild-channel-f.jpg');
+}
+#fairchild-revolution{
+  background-image: url('../img/crack.jpg');
+}
+#fairchild-cartridge{
+  background-image: url('../img/FairchildChannelF-cartridges.jpg');
+}
+#fairchild-processor{
+  background-image: url('../img/fairchild-f8.jpg');
+}
+#robert-noyce{
+  background-image: url('../img/robert_noyce.png');
+}
+#intel{
+  background-image: url('../img/intel.png');
+}
