@@ -169,3 +169,10 @@ section .content{
 #intel{
   background-image: url('../img/intel.png');
 }
+
+#atari{
+  background-image: url('../img/atari-2600.jpg');
+}
+#asteroids{
+  background-image: url('../img/asteroids.jpg');
+}
