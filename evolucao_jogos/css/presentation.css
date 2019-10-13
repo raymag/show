@@ -247,3 +247,28 @@ section .content{
 #xbox{
   background-image: url('../img/xbox.jpg');
 }
+
+#wow{
+  background-image: url('../img/wow.jpg');
+}
+#blackdesert{
+  background-image: url('../img/blackdesert3.jpg');
+}
+#fortnite{
+  background-image: url('../img/fortnite.jpg');
+}
+#overwatch{
+  background-image: url('../img/overwatch.jpg');
+}
+#lol{
+  background-image: url('../img/lol.jpg');
+}
+#csgo{
+  background-image: url('../img/csgo.jpg');
+}
+#talos-principle{
+  background-image: url('../img/talos-principle-vr.jpg');
+}
+#cod-mobile{
+  background-image: url('../img/callofduty-mobile.webp');
+}
