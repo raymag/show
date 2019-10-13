@@ -237,3 +237,13 @@ section .content{
 #alladin-snes{
   background-image: url('../img/aladin-snes.jpg');
 }
+
+#playstation-1{
+  background-image: url('../img/playstation-1.jpg');
+}
+#nitendo64{
+  background-image: url('../img/nitendo64.jpg');
+}
+#xbox{
+  background-image: url('../img/xbox.jpg');
+}
